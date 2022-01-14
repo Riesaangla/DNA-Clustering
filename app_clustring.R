@@ -1,4 +1,4 @@
-
+setwd("C:/Users/Judy.Chen/OneDrive - Knights - University of Central Florida/GRA")
 #GD-10
 rm(list=ls())
 # source("3-functions.R")
